@@ -14,17 +14,14 @@
   <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=00ff9d&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Ahmadzaky404" alt="Profile Forks"/>
 </div>
 
-<!-- WAKATIME – GANTI DENGAN MILIK ANDA JIKA ADA -->
-<!--
-<figure>
-  <embed src="https://wakatime.com/share/@AHMADZAKY/xxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxx.svg"></embed>
-</figure>
--->
-
 ## 🙋‍♂️ About Me
-- 🌱 I’m a **Javascript Full-Stack Developer** (Discord.JS / React.JS / Electron.JS)
-- 👨‍💻 Suka ngoding hal-hal berbau cyberpunk dan automation.
-- ⚡ Fun fact: Saya lebih sering ngopi daripada ngetik.
+- 🌱 I'm a **Web Developer** specializing in Frontend & Backend development
+- 💻 Working with **JavaScript, TypeScript, PHP, and Laravel**
+- ⚛️ Building modern web apps with **React** and **Node.js**
+- 🎨 Passionate about creating clean and responsive user interfaces
+- 🤖 Love building **Discord bots** and automation tools
+- 📚 Always learning new technologies and best practices
+- ⚡ Fun fact: Coffee-powered coder ☕
 
 ## 🚀 Languages & Tools
 <p align="center">
@@ -77,17 +74,7 @@
   </a>
 </div>
 
-<!-- SPOTIFY – GANTI DENGAN MILIK ANDA JIKA ADA -->
-<!--
-## 🎶 Spotify Recently Played
-<p align="center">
-  <a href="https://open.spotify.com/user/SPOTIFY_USER_ID" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=SPOTIFY_USER_ID"/>
-  </a>
-</p>
--->
-
-<!-- SNAKE ANIMATION (TIDAK DIHAPUS) -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ahmadzaky404/Ahmadzaky404/output/snake.svg" alt="Snake animation" />
 </div>
@@ -95,7 +82,6 @@
 ## 🌐 Social Media
 <div align="center">
   <a href="https://discord.gg/arctie" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <!-- Tambahin IG / Twitter / LinkedIn sesuai keinginan -->
 </div>
 
 <p align="center">
