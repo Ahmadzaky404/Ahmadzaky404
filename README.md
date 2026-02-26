@@ -46,20 +46,11 @@
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.icons8.com/?size=64&id=asWSSTBrDlTW&format=png" alt="React"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=wPohyHO_qO1a&format=png" alt="React Native"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.icons8.com/?size=64&id=20909&format=png" alt="HTML5"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.icons8.com/?size=64&id=21278&format=png" alt="CSS3"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=nn5BRPhPpKAT&format=png" alt="MongoDB"/>
-  </a>
-  <a href="https://www.electronjs.org/" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=z1hRF8ZnphmY&format=png" alt="Electron"/>
   </a>
   <a href="https://discord.js.org/" target="_blank">
     <img src="https://img.icons8.com/?size=64&id=30998&format=png" alt="Discord.js"/>
