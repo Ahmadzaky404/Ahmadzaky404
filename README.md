@@ -40,9 +40,6 @@
   <a href="https://nodejs.org" target="_blank">
     <img src="https://img.icons8.com/?size=64&id=54087&format=png" alt="Node.js"/>
   </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=asWSSTBrDlTW&format=png" alt="React"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.icons8.com/?size=64&id=20909&format=png" alt="HTML5"/>
   </a>
