@@ -18,9 +18,6 @@
 - 🌱 I'm a **Web Developer** specializing in Frontend & Backend development
 - 💻 Working with **JavaScript, TypeScript, PHP, and Laravel**
 - ⚛️ Building modern web apps with **React** and **Node.js**
-- 🎨 Passionate about creating clean and responsive user interfaces
-- 🤖 Love building **Discord bots** and automation tools
-- 📚 Always learning new technologies and best practices
 - ⚡ Fun fact: Coffee-powered coder ☕
 
 ## 🚀 Languages & Tools
@@ -37,6 +34,9 @@
   <a href="https://laravel.com/" target="_blank">
     <img src="https://img.icons8.com/?size=64&id=lRjcvhvtR81o&format=png" alt="Laravel"/>
   </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://img.icons8.com/?size=64&id=PndQWK6M1Hjo&format=png" alt="Bootstrap"/>
+</a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://img.icons8.com/?size=64&id=54087&format=png" alt="Node.js"/>
   </a>
