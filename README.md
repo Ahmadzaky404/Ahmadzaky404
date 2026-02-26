@@ -29,22 +29,40 @@
 ## 🚀 Languages & Tools
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=108784&format=png"/>
+    <img src="https://img.icons8.com/?size=64&id=108784&format=png" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=uJM6fQYqDaZK&format=png" alt="TypeScript"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=fAMVO_fuoOuC&format=png" alt="PHP"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=lRjcvhvtR81o&format=png" alt="Laravel"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=54087&format=png"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=nn5BRPhPpKAT&format=png"/>
+    <img src="https://img.icons8.com/?size=64&id=54087&format=png" alt="Node.js"/>
   </a>
   <a href="https://react.dev/" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=asWSSTBrDlTW&format=png"/>
+    <img src="https://img.icons8.com/?size=64&id=asWSSTBrDlTW&format=png" alt="React"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=wPohyHO_qO1a&format=png" alt="React Native"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=20909&format=png" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=21278&format=png" alt="CSS3"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=nn5BRPhPpKAT&format=png" alt="MongoDB"/>
   </a>
   <a href="https://www.electronjs.org/" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=z1hRF8ZnphmY&format=png"/>
+    <img src="https://img.icons8.com/?size=64&id=z1hRF8ZnphmY&format=png" alt="Electron"/>
   </a>
   <a href="https://discord.js.org/" target="_blank">
-    <img src="https://img.icons8.com/?size=64&id=30998&format=png"/>
+    <img src="https://img.icons8.com/?size=64&id=30998&format=png" alt="Discord.js"/>
   </a>
 </p>
 
