@@ -1,0 +1,94 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AHMAD%20ZAKY&fontColor=00ff9d&desc=Cyberpunk%20Developer%20%7C%20he%2Fhim&descAlignY=70"/>
+</p>
+
+<div align="center">
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=root%40ahmadzaky%3A~%23+whoami;Full-Stack+Developer;Javascript+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <!-- Badge dengan warna neon -->
+  <img src="https://komarev.com/ghpvc/?username=Ahmadzaky404&label=Profile%20Views&color=00ff9d&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff00c1&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Ahmadzaky404" alt="Profile Stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=00ff9d&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Ahmadzaky404" alt="Profile Forks"/>
+</div>
+
+<!-- WAKATIME – GANTI DENGAN MILIK ANDA JIKA ADA -->
+<!--
+<figure>
+  <embed src="https://wakatime.com/share/@AHMADZAKY/xxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxx.svg"></embed>
+</figure>
+-->
+
+## 🙋‍♂️ About Me
+- 🌱 I’m a **Javascript Full-Stack Developer** (Discord.JS / React.JS / Electron.JS)
+- 👨‍💻 Suka ngoding hal-hal berbau cyberpunk dan automation.
+- ⚡ Fun fact: Saya lebih sering ngopi daripada ngetik.
+
+## 🚀 Languages & Tools
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=108784&format=png"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=54087&format=png"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=nn5BRPhPpKAT&format=png"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=asWSSTBrDlTW&format=png"/>
+  </a>
+  <a href="https://www.electronjs.org/" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=z1hRF8ZnphmY&format=png"/>
+  </a>
+  <a href="https://discord.js.org/" target="_blank">
+    <img src="https://img.icons8.com/?size=64&id=30998&format=png"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://gitlift.com/user/Ahmadzaky404" target="_blank">
+    <img src="https://img.shields.io/badge/Gitlift-Determined-f57f17?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA/1BMVEUAAAD1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf///8hPsr3AAAAU3RSTlMAABW5kgobaKvsgQgar/NTgPmDrZ9gmOcGAgkEOuSurFrOxxNKcWMnAVfpo/rPNlwDWOicuNQHHGke6zU9eFsNQS9GPDJreUUSLFUFR1F1EGR7b+rfKSYAAACiSURBVHjaTckDGkNREEPhSW3btm3b7d3/Wur2zfmYP0QEmVyhBP0CVGqNVqfHHwxGk9litf3FYBfC4XS5bR7A61P6KRAUIhSORGNxIJFMpSmTzQldvlAsASinPRVCplqrN5oltNrtThdEL+k1+8BgWB6NX0DwTqYAZnPQP+gX/WWAQ3q1nm04bHd87Q/HpZnD5jTdnv8AZGQXL/8NnesNEjwASCETZucT9uAAAAAASUVORK5CYII="/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ahmadzaky404/github-readme-stats">
+    <img title="🔥" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadzaky404&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/Ahmadzaky404">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadzaky404&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadzaky404&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
+
+<!-- SPOTIFY – GANTI DENGAN MILIK ANDA JIKA ADA -->
+<!--
+## 🎶 Spotify Recently Played
+<p align="center">
+  <a href="https://open.spotify.com/user/SPOTIFY_USER_ID" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=SPOTIFY_USER_ID"/>
+  </a>
+</p>
+-->
+
+<!-- SNAKE ANIMATION (TIDAK DIHAPUS) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ahmadzaky404/Ahmadzaky404/output/snake.svg" alt="Snake animation" />
+</div>
+
+## 🌐 Social Media
+<div align="center">
+  <a href="https://discord.gg/arctie" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <!-- Tambahin IG / Twitter / LinkedIn sesuai keinginan -->
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
