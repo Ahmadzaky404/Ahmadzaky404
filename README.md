@@ -15,9 +15,8 @@
 </div>
 
 ## 🙋‍♂️ About Me
-- 🌱 I'm a **Web Developer** specializing in Frontend & Backend development
+- 🌱 I'm a **Web Developer** specializing in Frontend & Backend dev anthusiast
 - 💻 Working with **JavaScript, TypeScript, PHP, Bootstrap, and Laravel**
-- ⚛️ Building modern web apps with **React** and **Node.js**
 - ⚡ Fun fact: Coffee-powered coder ☕
 
 ## 🚀 Languages & Tools
